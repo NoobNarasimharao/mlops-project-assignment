@@ -82,3 +82,4 @@ checkpoints/
 # Dependency lockfiles generated locally
 poetry.lock
 Pipfile.lock
+model/weather_prediction_model.pkl
