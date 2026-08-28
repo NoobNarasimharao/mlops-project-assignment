@@ -1,3 +1,3 @@
-uv py venv venv </br>
+uv py -m venv venv </br>
 uv pip install requirements.txt </br>
 run
